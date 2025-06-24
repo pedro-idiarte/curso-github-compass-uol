@@ -1,0 +1,1 @@
+aqui esta uma implementação para o codigo chat
